@@ -1,0 +1,26 @@
+.right-container {
+    float: right;
+    margin: 20px;
+}
+.center-container {
+    background-color: white;
+    margin-top: 140px;
+    margin-right: 400px;
+    margin-left: 400px;
+    min-height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 10px;
+}
+
+.sigin-page-container {
+    margin: 20px;
+}
